@@ -1,0 +1,2 @@
+Hello, this a file handling example.
+Python makes file handling easy!
